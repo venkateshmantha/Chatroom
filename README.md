@@ -5,15 +5,15 @@ A server-client multithreaded chat application supporting file transfer submitte
 
 The server starts on the default port 2222. To start it on a different port, type
 
-_java Server <portnumber>_
+_java Server_ <portnumber>
   
-_java Client localhost <portnumber>_ to connect to the server.
+_java Client localhost_ <portnumber> to connect to the server.
   
 ### Message passing
 
 1.To broadcast
 
-_broadcast <message>_ without '<>'
+_broadcast_ <message> without '<>'
 
 2.To unicast
 
@@ -27,8 +27,8 @@ _blockcast @clientname_ <message>
 
 1.To broadcast
 
-_file broadcast <filepath>_ without '<>' (make sure the file exists and the path is correct to avoid unexpected behaviour)
+_file broadcast_ <filepath> without '<>' (make sure the file exists and the path is correct to avoid unexpected behaviour)
 
 2.To unicast
 
-_file unicast @clientname <filepath>_
+_file unicast @clientname_ <filepath>
