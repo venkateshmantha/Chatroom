@@ -1,5 +1,5 @@
 # chatroom
-A server-client multithreaded chat application supporting file transfer submitted as course work for the course Computer Networks.
+A server-client multithreaded chat application supporting file transfer submitted as course work for the course Computer Networks CNT 5106C Fall 2016.
 
 ## Usage guide
 
