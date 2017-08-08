@@ -32,3 +32,7 @@ _file broadcast \<filepath>_ without '<>' (make sure the file exists and the pat
 2.To unicast
 
 _file unicast @clientname \<filepath>_
+
+## License
+
+This project is licensed under the MIT License.
