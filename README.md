@@ -1,3 +1,5 @@
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/venkateshmantha/MusiCLI/blob/master/LICENSE)
+
 # Chatroom
 A server-client multithreaded chat application supporting file transfer submitted as course work for the course Computer Networks CNT 5106C Fall 2016.
 
